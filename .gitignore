@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebCameraApp/.vs
+/.vs
+/WebCameraApp/WebCameraApp/bin/Debug/net6.0
+/WebCameraApp/WebCameraApp/obj
